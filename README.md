@@ -4,9 +4,11 @@
 🔗 **[View Project on Netlify](https://wonderful-salamander-193139.netlify.app/)**  
 
 ## 📸 Screenshots  
-![Homepage](YOUR_IMAGE_LINK_1)  
-![Challenge Page](YOUR_IMAGE_LINK_2)  
-![Submission Page](YOUR_IMAGE_LINK_3)  
+![Homepage](/Home.png)  
+![Challenges Page](/Challenges.png)  
+![Dashboard Page](/Dashboard.png)  
+![Challenge Page](/Challenge.png)
+![Profile Page](/Profile.png)
 
 ## 📖 About the Project  
 This project is an AI-driven coding challenge platform designed for web and app developers. It provides:  
@@ -34,8 +36,6 @@ AI evaluates the code and provides feedback.
 Scores are assigned based on performance.
 Admin can approve or reject challenges.
 
-🎥 Video Demo
-📹 Watch the Project Demo
 
 🚀 Future Enhancements
 Add real-time collaboration for users.
