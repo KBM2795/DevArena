@@ -1,7 +1,7 @@
 # 🚀 AI-Powered Coding Challenge Platform
 
 ## 🌐 Live Website  
-🔗 **[View Project on Netlify]([YOUR_NETLIFY_LINK_HERE](https://wonderful-salamander-193139.netlify.app/))**  
+🔗 **[View Project on Netlify](https://wonderful-salamander-193139.netlify.app/)**  
 
 ## 📸 Screenshots  
 ![Homepage](YOUR_IMAGE_LINK_1)  
